@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+}
+
+.menu {
+    background-color: burlywood;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu__title {
+    font-family: Impact, serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.menu__title-description {
+    text-align: center;
+}
+
+.menu__subtitle-coffee {
+    text-align: center;
+    font-weight: bold;
+}
+
+.menu__image-coffee {
+    text-align: center;
+}
+
+.menu__item p {
+    display: inline-block;
+}
+
+.menu__item-coffee {
+    text-align: left;
+    width: 50%;
+}
+
+.menu__item-coffee-price {
+    text-align: right;
+    width: 50%;
+}
